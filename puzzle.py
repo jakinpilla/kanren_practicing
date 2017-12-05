@@ -49,4 +49,6 @@ print('=' * 57)
 for item in solutions[0]:
     print('')
     print('\t\t'.join([str(x) for x in item]))
+	
+# This is just practicing for puzzle.py
 
